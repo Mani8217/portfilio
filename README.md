@@ -1,4 +1,4 @@
-# portfilio
+# portfolio
 
 ## let's take a look at Page : [Portfolio Page](https://mani8217.github.io/portfilio/)
 
