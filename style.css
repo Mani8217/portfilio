@@ -73,6 +73,9 @@ main .introduction{
 .projects-container{
     background-color: #23575B;
     padding:20px;
+    display:flex;
+    flex-direction:column;
+    
  }
 
  .projects-container h3 {
@@ -100,6 +103,7 @@ main .introduction{
 
  .card{
     margin: 15px auto;
+    
  }
 
  .card .btn {
